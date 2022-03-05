@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobtuber20103152&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noobtuber20103152&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!-- 
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=noobtuber20103152.noobtuber20103152)
 
 [![Github](https://img.shields.io/github/followers/noobtuber20103152?label=Follow&style=social)](https://github.com/noobtuber20103152)
- -->
+
