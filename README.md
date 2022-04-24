@@ -25,6 +25,7 @@ Tech stack which I use to build web applications.
 <a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="21px" height="21px"></a>
 <a href="https://nextjs.org/" title="Next.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next.js" width="21px" height="21px"></a>
 <a href="https://github.com/enzymejs/enzyme" title="Enzyme"><img src="https://github.com/get-icon/geticon/raw/master/icons/enzyme.svg" alt="Enzyme" width="21px" height="21px"></a>
+<a href="https://www.mongodb.org/" title="MongoDB"><img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="MongoDB" width="21px" height="21px"></a>
 
 ![Ujjawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=noobtuber20103152&show_icons=true&theme=radical)
 
