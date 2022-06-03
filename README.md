@@ -14,7 +14,7 @@
 I am a MERN stack web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I'm working as a forntend developer to resign and improvement of Dr. B R Ambedkar National Institute Of Technology, Jalandhar's official website.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode, Binary Search and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ujjawal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawal-rachhoya-054297211)
 
