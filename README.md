@@ -6,6 +6,12 @@
   <a href="https://www.linkedin.com/in/ujjawal-rachhoya-054297211">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://leetcode.com/ujjawalrachhoya100/">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="Leetcode"/>
+  </a>
+  <a href="https://codeforces.com/profile/Noob_tuber">
+    <img src="https://codeforces.org/s/74602/images/codeforces-logo-with-telegram.png" alt="Codeforces"/>
+  </a>
 </div>
 
 <h1>
