@@ -45,5 +45,5 @@ I am a MERN stack web developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :writing_hand: Portfolio Website :
  <a id="badges" href="https://noobtuber.vercel.app/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/crystal/crystal-original.svg" alt="Portfolio"/>
+   https://noobtuber.vercel.app/
   </a>
