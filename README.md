@@ -10,7 +10,9 @@ I am a MERN stack web developer and freelancer <img src="https://media.giphy.com
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode, Binary Search and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ujjawal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawal-rachhoya-054297211)
-
+- *️⃣ blog website - <a id="badges" href="https://blogtuber.vercel.app/">
+   https://blogtuber.vercel.app/
+  </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
