@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me :
 I am a MERN stack web developer and freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I'm working as a frontend developer to design and improvement of Dr. B R Ambedkar National Institute Of Technology, Jalandhar's official website.
+- :telescope: 
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode, Binary Search and read tech articles.
 
