@@ -14,7 +14,7 @@ I am a MERN stack web developer and freelancer <img src="https://media.giphy.com
    https://blogtuber.vercel.app/
   </a>
 - *️⃣ explorewithme website - <a target="_blank" id="badges" href="https://explorewithme.vercel.app/">
-   [https://blogtuber.vercel.app/](https://explorewithme.vercel.app/)
+   [https://explorewithme.vercel.app/](https://explorewithme.vercel.app/)
   </a>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
