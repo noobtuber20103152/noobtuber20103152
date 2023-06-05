@@ -35,8 +35,6 @@ I am a MERN stack web developer and freelancer <img src="https://media.giphy.com
 
 </div>
 
-| <a href="https://github.com/noobtuber20103152"><img align="center" src="https://github-readme-stats.vercel.app/api?username=noobtuber20103152&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="noobtuber's github stats" /></a> | <a href="https://github.com/noobtuber20103152/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobtuber20103152&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobtuber20103152&theme=dark&background=000000)](https://git.io/streak-stats)
 
