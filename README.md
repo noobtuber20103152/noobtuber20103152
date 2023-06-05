@@ -6,15 +6,15 @@
 
 ### :woman_technologist: About Me :
 I am a MERN stack web developer and freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-
+- : : Contributing GSSoC 2023
 - :zap: In my free time, I solve problems on GeeksforGeeks, Leetcode, Binary Search and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ujjawal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ujjawal-rachhoya-054297211)
 - *️⃣ blog website - <a target="_blank" id="badges" href="https://blogtuber.vercel.app/">
    https://blogtuber.vercel.app/
   </a>
-- *️⃣ explorewithme website - <a target="_blank" id="badges" href="https://explorewithme.vercel.app/">
-   [https://explorewithme.vercel.app/](https://explorewithme.vercel.app/)
+- *️⃣ explorewithme YouTube channel - <a target="_blank" id="badges" href="https://youtube.com/@explorewithme100">
+   [https://youtube.com/@explorewithme100](https://youtube.com/@explorewithme100)
   </a>
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -36,7 +36,7 @@ I am a MERN stack web developer and freelancer <img src="https://media.giphy.com
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobtuber20103152&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobtuber20103152&theme=dark&background=fff)](https://git.io/streak-stats)
 
 
 ### :writing_hand: Portfolio Website :
