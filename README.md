@@ -36,7 +36,7 @@ I am a MERN stack web developer and freelancer <img src="https://media.giphy.com
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobtuber20103152&theme=dark&background=fff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobtuber20103152&theme=light&background=fff)](https://git.io/streak-stats)
 
 
 ### :writing_hand: Portfolio Website :
