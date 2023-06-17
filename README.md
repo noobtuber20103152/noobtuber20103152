@@ -35,6 +35,8 @@ I am a MERN stack web developer and freelancer <img src="https://media.giphy.com
 
 </div>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=noobtuber20103152&hide=html,css)]
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noobtuber20103152&theme=light&background=fff)](https://git.io/streak-stats)
 
