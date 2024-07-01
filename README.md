@@ -5,11 +5,9 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://x.com/intent/follow?screen_name=noob_tuber152)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/ujjawal-rachhoya-054297211/)
+[![Linkedin: anmol](https://img.shields.io/badge/-ujjawal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ujjawal-rachhoya-054297211/)](https://www.linkedin.com/in/ujjawal-rachhoya-054297211/)
 ![GitHub followers](https://img.shields.io/github/followers/noobtuber20103152?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://noobtuber152.vercel.app/)
-![](https://visitor-badge.glitch.me/badge?page_id=noobtuber20103152.noobtuber20103152)
-![Waka Readme](https://github.com/anmol098/noobtuber20103152/workflows/Waka%20Readme/badge.svg)
 
 <!-- ### 📫 Like to meet me?
 
@@ -27,7 +25,7 @@ npx anmol
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const noobtuber = {
     pronouns: "He" | "Him",
     code: ["Javascript", "TypeScript", "C++",],
     askMeAbout: ["web dev", "tech", "video editing"],
