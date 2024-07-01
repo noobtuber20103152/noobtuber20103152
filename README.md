@@ -52,7 +52,11 @@ const anmol = {
 
 ---
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/noobtuber20103152/noobtuber20103152/blob/master/images/stat.svg"
-  alt="Alternative Text"
-/>
+## Favourite Programming Language
+<img src="/assets/languages.png" >
+
+## Favourite Operating System
+<img src="/assets//os.png">
+
+## Total Coding Time
+<img src="/assets//time.png"/>
